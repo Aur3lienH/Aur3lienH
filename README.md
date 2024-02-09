@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aur3lienH
-- 👀 I’m interested in Deep Learning, Game developement and making the world better and easier.
-- 🌱 I’m currently learning Q-learning
-- 💞️ I’m looking to improve on everything I do.
+- 👀 I love deep learning and image processing, there is a lot of chance that I am doing that right now !
 
 <!---
 Aur3lienH/Aur3lienH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
